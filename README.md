@@ -46,3 +46,10 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 <p>* Metode `cekSaldo()` untuk menampilkan sisa saldo</p>
 
 <p>Dari diagram tersebut kita dapat menunjukan bagaimana objek tersebut beroperasi berdasarkan metode yang dipanggil dan bagaimana nilai atribut `saldo` berubah</p>
+
+## latihan2
+<p>Buatlah kode program java untuk:
+• Mendeklarasikan class Person, dengan atribut Nama,
+JenisKelamin, Umur
+• Buatlah dua buah objek dari class Person bernama Anton
+dan Riko</p>
