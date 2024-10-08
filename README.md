@@ -10,9 +10,13 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 <p>dari diagram tersebut objek anton dan riko belum ditambahkan. </p>
 
 ## berikut diagram class yang telah dimasukan dua objek
+
 <p>- diagram objek untuk Anton</p>
+
 | Anton : Person |
 |----------------|
 | Nama : Anton   |
+
+
 ## Buatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 ![Screenshot 2024-10-07 215439](https://github.com/user-attachments/assets/608bb855-13d3-4dfb-8b2d-51d574829f7d)
