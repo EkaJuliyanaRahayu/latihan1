@@ -1,14 +1,14 @@
 # latihan1
 
 ## * Apa yang harus didefinisikan sebeum membuat objek?
-<p>sebelum membuat objek kita harus membuat class terlebih dahulu. 
+<p>Sebelum membuat objek kita harus membuat class terlebih dahulu. 
 Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang menjelaskan perilaku atau tindakan yang dapat dilakukan oleh objek tersebut</p>
 
 ## * Buatlah gambar diagram class dan dua buah objek dari class Person bernama Antor dan Riko
 ![Screenshot 2024-10-07 215331](https://github.com/user-attachments/assets/6fe14aae-2fa4-4c6b-ba31-688143043ee3)
-<p>dari diagram tersebut objek anton dan riko belum ditambahkan. </p>
+<p>Dari diagram tersebut objek anton dan riko belum ditambahkan. </p>
 
-## berikut diagram class yang telah dimasukan dua objek
+## Berikut diagram class yang telah dimasukan dua objek
 <p>* diagram objek untuk Anton</p>
 
 | Anton : Person |
