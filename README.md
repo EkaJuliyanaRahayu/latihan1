@@ -1,4 +1,4 @@
-# latihan1
+# latihan-1
 
 ## * Apa yang harus didefinisikan sebeum membuat objek?
 <p>Sebelum membuat objek kita harus membuat class terlebih dahulu. 
@@ -47,8 +47,8 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 
 <p>Dari diagram tersebut kita dapat menunjukan bagaimana objek tersebut beroperasi berdasarkan metode yang dipanggil dan bagaimana nilai atribut `saldo` berubah</p>
 
-## latihan2
-<p>Buatlah kode program java untuk:>/p>
+## latihan-2
+<p>Buatlah kode program java untuk:</p>
 <p>• Mendeklarasikan class Person, dengan atribut Nama,
 JenisKelamin, Umur </p>
 <p>• Buatlah dua buah objek dari class Person bernama Anton
