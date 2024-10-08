@@ -189,5 +189,18 @@ public class AkunBank {
 }
 ```
 
+## OUTPUT
+
+![Screenshot 2024-10-08 202608](https://github.com/user-attachments/assets/fafa3b30-31ee-4924-9955-3814704b1f37)
+
+<p>* Class `AkunBank` untuk mendeklarasikan atribut Saldo</p>
+<p>* Pada atribut `saldo` untuk menyimpan saldo yang di inisialisasikan melalui construktor.</p>
+<p>* metode `simpanUang(int jumlah)` digunakan untuk menambahkan jumlah uang yang disimpan ke dalam saldo.</p>
+<p>* metode `ambilUang(int jumlah)` digunakan untuk mengurangi saldo sesuai jumlah uang yang diambil jika saldo mencukupi.</p>
+<p>* metode `cekSaldo()` digunakan untuk menampilkan saldo akhi.r</p>
+<p>* `main method` sebagai class utama yang dapat dijalankan untuk membuat objek AkunBank, menampilkan pesan awal, dan memanggil metode sesuai yang di inginkan, jika program dijalankan maka hasil yang ditampilkan akan sesuai pada gambar.</p>
+
+
+
 
 
