@@ -26,7 +26,7 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 | Jenis Kelamin : L |
 | Umur : 35     |
 <p>Objek Riko adalah instance dari class Person, yang dimana atribut seperti nama, jenis kelamin, dan umur di isi biodata Riko</p>
-<p>Diagram diatas menjelaskan bahwa Anton dan Riko merupakan objek atau instance dari class Person </p>
+<p> * Diagram diatas menjelaskan bahwa Anton dan Riko merupakan objek atau instance dari class Person </p>
 
 ## * Buatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 ![Screenshot 2024-10-07 215439](https://github.com/user-attachments/assets/608bb855-13d3-4dfb-8b2d-51d574829f7d)
