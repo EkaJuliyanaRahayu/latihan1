@@ -120,3 +120,11 @@ public class Person {
 }
     
    ```
+## OUTPUT
+![Screenshot 2024-10-07 210609](https://github.com/user-attachments/assets/ce6d21c1-567d-44ad-bd56-6e176580c3fa)
+
+<p>* Kelas `Person` untuk mendeklarasikan atribut nama, jenis kelamin, dan umur</p>
+<p>* construktor digunakan untuk menginisialisasikan atribut saat objek dibuat</p>
+<P>* Dua objek yaitu `Anton` dan `Riko` dibuat menggunakan construktor dan datanya di isi</P>
+<p>* Pada Metode `tampilkanInfo` digunakan untuk menampilkan dua objek tersebut yaitu Anton dan Riko</p>
+
