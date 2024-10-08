@@ -35,7 +35,8 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 
 | Akun saya : AkunBank |
 | ---------------------|
-| Saldo : 100000       | nilai saldo awal
+| Saldo : 100000       | 
+| ---------------------|
 | simpanUang(500000)   |
 | ambilUang(150000)    |
 | cekSaldo()           |
