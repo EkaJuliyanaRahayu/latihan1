@@ -31,11 +31,11 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 ## * Buatlah gambar diagram objek AkunBank dengan instance method simpanUang, ambilUang dan cekSaldo
 ![Screenshot 2024-10-07 215439](https://github.com/user-attachments/assets/608bb855-13d3-4dfb-8b2d-51d574829f7d)
 <p>Diagram diatas merupakan diagram class Akun Bank, tetapi belum terdapat objek yang dimasukkan.</p>
-<p>Berikut adalah diagram objek dari Akun Bank</p>
+<p>* Berikut adalah diagram objek dari Akun Bank</p>
 
 | Akun saya : AkunBank |
 | ---------------------|
-| Saldo : 100000       |
+| Saldo : 100000       | nilai saldo awal
 | simpanUang(500000)   |
 | ambilUang(150000)    |
 | cekSaldo()           |
