@@ -34,3 +34,9 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 <p>Berikut adalah diagram objek dari Akun Bank</p>
 
 | Akun saya : AkunBank |
+| ---------------------|
+| Saldo : 100000       |
+| simpanUang(500000)   |
+| ambilUang(150000)    |
+| cekSaldo()           |
+
