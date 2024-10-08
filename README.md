@@ -40,4 +40,9 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 | ambilUang(150000)    |
 | cekSaldo()           |
 <p> Objek 'akunSaya' merupakan instance dari class AkunBank</p>
+<p>* Atribut `saldo` diisi dengan nilai awal yaitu 100000</p>
+<p>* Metode `simpanUang(500000)` untuk menambahkan uang ke saldo</p>
+<p>* Metode `ambilUang(150000)` untuk mengurangi saldo</p>
+<p>* Metode `cekSaldo()` untuk menampilkan sisa saldo</p>
 
+<p>Dari diagram tersebut kita dapat menunjukan bagaimana objek tersebut beroperasi berdasarkan metode yang dipanggil dan bagaimana nilai atribut `saldo` berubah</p>
