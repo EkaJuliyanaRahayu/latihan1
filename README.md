@@ -33,13 +33,13 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 <p>Diagram diatas merupakan diagram class Akun Bank, tetapi belum terdapat objek yang dimasukkan.</p>
 <p>* Berikut adalah diagram objek dari Akun Bank</p>
 
-| akunsaya : AkunBank |
+| akunBank : AkunBank |
 | ---------------------|
 | Saldo : 100000       | 
 | simpanUang(500000)   |
 | ambilUang(150000)    |
 | cekSaldo()           |
-<p> Objek 'akunSaya' merupakan instance dari class AkunBank</p>
+<p> Objek 'akunBank' merupakan instance dari class AkunBank</p>
 <p>* Atribut `saldo` diisi dengan nilai awal yaitu 100000</p>
 <p>* Metode `simpanUang(500000)` untuk menambahkan uang ke saldo</p>
 <p>* Metode `ambilUang(150000)` untuk mengurangi saldo</p>
@@ -127,4 +127,12 @@ public class Person {
 <p>* construktor digunakan untuk menginisialisasikan atribut saat objek dibuat</p>
 <P>* Dua objek yaitu `Anton` dan `Riko` dibuat menggunakan construktor dan datanya di isi</P>
 <p>* Pada Metode `tampilkanInfo` digunakan untuk menampilkan dua objek tersebut yaitu Anton dan Riko</p>
+
+## Latihan-3
+<p>Buatlah kode java untuk:</p>
+<p>• Mendeklarasikan class AkunBank dengan instance method
+simpanUang, ambilUang dan cekSaldo</p>
+<p>• Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000,
+kemudian panggil 3 method tersebut dan tampilkan proses berikut</p>
+
 
