@@ -39,5 +39,7 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 | simpanUang(500000)   |
 | ambilUang(150000)    |
 | cekSaldo()           |
-<p>* Objek "akunSaya" merupakan instance dari class AkunBank</p>
+<p>* Objek 
+  ``` akunSaya
+  merupakan instance dari class AkunBank</p>
 
