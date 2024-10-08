@@ -33,11 +33,11 @@ Di dalam class, kita mendefinisikan atribut (variabel) dan metode (fungsi) yang 
 <p>Diagram diatas merupakan diagram class Akun Bank, tetapi belum terdapat objek yang dimasukkan.</p>
 <p>* Berikut adalah diagram objek dari Akun Bank</p>
 
-| Akun saya : AkunBank |
+| akunsaya : AkunBank |
 | ---------------------|
 | Saldo : 100000       | 
-| ---------------------|
 | simpanUang(500000)   |
 | ambilUang(150000)    |
 | cekSaldo()           |
+<p>* Objek `akunSaya` merupakan instance dari class AkunBank</p>
 
