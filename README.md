@@ -54,6 +54,8 @@ JenisKelamin, Umur </p>
 <p>• Buatlah dua buah objek dari class Person bernama Anton
 dan Riko </p>
 
+## INPUT
+
 ``` Java
 package person;
 
@@ -134,6 +136,10 @@ public class Person {
 simpanUang, ambilUang dan cekSaldo</p>
 <p>• Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000,
 kemudian panggil 3 method tersebut dan tampilkan proses berikut</p>
+
+![Screenshot 2024-10-08 204201](https://github.com/user-attachments/assets/e6c3642c-601c-4628-af89-124d16849df3)
+
+## INPUT
 
 ``` Java
 package akunbank;
